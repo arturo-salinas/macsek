@@ -1,14 +1,30 @@
 {
-"lastModified":"2019.12.21",
-"news":[
- {"date":"2019.09.03","title":"INGYENES bemutató óra","content":"Kedves Családok!<br/>Az első óra ( szeptember 15.) INGYENES bemutató óra lesz, melyre szeretettel várunk mindenkit! Előzetes bejelentkezés szükséges, amelyet e-mailcímünkre várunk!<img class=\"img-responsive\" src=\"otherDocuments/plakat.png\"></img>"},
- {"date":"2019.06.16","title":"Csatlakozz te is!","content":"Szeretettel várunk és támogatunk minden vállalkozó kedvű pedagógust, zenetanárt, népzenészt, népdalénekest, drámapedagógust, néptáncpedagógust, akiknek van kedve egyesületünkben foglalkozást vezetni kisgyermekeknek!"},
- {"date":"2019.06.06","title":"Támogatás","content":"Kérjük támogasd egyesületünket! Bankgiro-számunk: 544-2686"}
-],
+  "lastModified": "2019.12.21",
+  "news": [
+    {
+      "date": "2020.01.22",
+      "title": "2020 tavaszi félév",
+      "content": "Kedves Családok!<br/>A tavaszi félévet február 2-án kezdjük Kerekítő Manóval, aki sok meglepetést tartogat számunkra! Szeretettel várunk benneteket!<img class=\"img-responsive\" style=\"border:1px solid black\" src=\"otherDocuments/invierno.png\"></img>"
+    },
+    {
+      "date": "2019.09.03",
+      "title": "INGYENES bemutató óra",
+      "content": "Kedves Családok!<br/>Az első óra ( szeptember 15.) INGYENES bemutató óra lesz, melyre szeretettel várunk mindenkit! Előzetes bejelentkezés szükséges, amelyet e-mailcímünkre várunk!<img class=\"img-responsive\" style=\"border:1px solid black\" src=\"otherDocuments/plakat.png\"></img>"
+    },
+    {
+      "date": "2019.06.16",
+      "title": "Csatlakozz te is!",
+      "content": "Szeretettel várunk és támogatunk minden vállalkozó kedvű pedagógust, zenetanárt, népzenészt, népdalénekest, drámapedagógust, néptáncpedagógust, akiknek van kedve egyesületünkben foglalkozást vezetni kisgyermekeknek!"
+    },
+    {
+      "date": "2019.06.06",
+      "title": "Támogatás",
+      "content": "Kérjük támogasd egyesületünket! Bankgiro-számunk: 544-2686"
+    }
+  ],
 
-"contacts":{"email":"magyarcsemetekkozossege@gmail.com",
-            "tel":"+46 76 268 82 75"}
-
-
-
+  "contacts": {
+    "email": "magyarcsemetekkozossege@gmail.com",
+    "tel": "+46 76 268 82 75"
+  }
 }
