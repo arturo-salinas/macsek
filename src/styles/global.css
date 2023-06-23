@@ -1,0 +1,132 @@
+
+	@font-face {
+      font-family: macsek;
+      src: url("fonts/KidzoneFontPro.ttf");
+   } 
+   
+   body{
+	   font-family: Arial!important;
+	   margin: 0px;
+	   /*background-color: #effdff;*/
+	   /*background-color: #edfdf4;*/
+	   /*background-color: #f3fff8;*/
+	   background-color: #ffffff;
+	   
+   }
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+	padding-left: 8vw;
+      margin-bottom: 0;
+      border-radius: 0;
+	  /*background-color:#ffb636;*/
+	  background-color:#fc792b;
+
+    }
+	.container-fluid {
+	padding-left: 0;
+	padding-right: 0;
+	}
+	.navbar-toggle {
+	float: left;
+	}
+	
+	.navColor > li >a{
+		
+		color:white!important;
+		font-size:calc(24px + 0.1vw);
+	    font-weight: bold;
+	}
+	
+		.navColor > li >a:hover{
+		
+		background-color:#ffa405!important;
+	}
+	
+	.headerClass {
+	background: url(headerbg_summer4.png) top center;
+	margin: 0px;
+	padding: 10px 250px 38px 250px;
+	min-width:1296px!important;
+	border-radius: 0 !important;
+	}
+	
+	.headerH1 {
+		display: inline-block;
+		padding:0px 100px 0px 100px;
+		color:#fc792b!important;
+		margin-top:5px;
+		font-family: macsek!important;
+		font-weight:normal!important;
+		text-align: center;
+    }
+
+	.headerMobile{
+		margin: 0px;
+		padding: 0px;
+		/*background-color:#aff0ff*/;
+		background-color:#b7ffc8;
+	}
+	.headerH1Mobile{
+		display: inline-block;
+		color:#fc792b!important;
+		margin: calc(10px + 1vw);
+		font-family: macsek!important;
+		font-weight:normal!important;
+		
+	}	
+	.contentClass { 
+	min-height: 50vh;
+	/* color: #fc792b;*/
+	}
+	.newsClass {
+		padding-left:10vw;
+		padding-right:10vw;
+	}	
+	
+	p.newsClass {
+		font-size:calc(14px + 0.4vw);
+		text-alignment: justify;
+		padding-left:1vw;
+		padding-right:1vw;
+	}
+	
+	.aboutClass {
+		padding-left:10vw;
+		padding-right:10vw;
+		font-size: calc(14px + 0.4vw);
+		text-alignment: justify;
+		
+	}
+	.programsClass {
+		font-size: calc(14px + 0.4vw);
+		padding-left:10vw;
+		padding-right:10vw;
+	}
+	p.aboutClass {
+		text-alignment: justify;
+	}
+
+	.contactClass {
+		padding-left:10vw;
+		padding-right:10vw;
+		
+	}
+	p.contactClass {
+		font-size:calc(16px + 0.1vw);
+	    padding:0.4vw;
+	}
+	.footerClass{
+		margin-bottom:0px;
+		padding: 20px;
+		color:#fc792b;
+	}
+	
+	.blueBar{
+		/*background-color:#91eaff;*/
+		background-color:#2ad07a;
+		padding:10px 40px 7px 40px;
+		color:white;
+		border-radius:8px;
+		margin-bottom:20px;
+	}
+	.blueBar > h2 {margin-top:0px!important}
