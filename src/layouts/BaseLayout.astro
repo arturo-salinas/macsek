@@ -1,6 +1,11 @@
 ---
 import "../styles/global.css";
-import Navigation from '../components/Navigation.astro'
+import Navigation from '../components/Navigation.astro';
+const date = new Date();
+let day = date.getDate();
+let month = date.getMonth() + 1;
+let year = date.getFullYear();
+const lastModified = year + "-" + month + "-" + day;
 ---
 <html lang="en">
   <head>
@@ -51,16 +56,18 @@ import Navigation from '../components/Navigation.astro'
           <img
             class="img-responsive"
             style="display:inline-block;height:calc(50px + 5vw);float:right;"
-            src="images/kerekito_logo_kicsi.png"
+            src="kerekito_logo_kicsi.png"
           /><img />
           <img
             class="img-responsive"
             style="display:inline-block;height:calc(50px + 5vw);float:right;"
-            src="images/logo1.png"
+            src="logo1.png"
           /><img />
         </div>
       </div>
-      <div class="jumbotron footerClass"></div>
+      <div class="jumbotron footerClass">
+        Utoljára frissítve: {lastModified}
+      </div>
     </div>
   </body>
 </html>
