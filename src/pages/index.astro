@@ -1,5 +1,5 @@
 ---
-import "../styles/global.css";
+import BaseLayout from '../layouts/BaseLayout.astro';
 import fs from "node:fs/promises";
 const url = new URL("../data/news.json", import.meta.url);
 const json = await fs.readFile(url, "utf-8");
@@ -11,97 +11,16 @@ interface Item {
   content: string;
 }
 ---
-
-<html lang="en">
-  <head>
-    <title>Welcome to MACSEK</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
-    />
-  </head>
-  <body>
-    <div class="container-fluid">
-      <div class="jumbotron headerClass hidden-xs hidden-sm">
-        <img
-          class="img-responsive"
-          style="display:inline-block;height:200px;margin-top:40px;padding-left:5vw;vertical-align: top;"
-          src="logo1.png"
-        /><img />
-        <h1 class="headerH1">Magyar<br />Csemeték<br />Közössége</h1>
-        <img
-          class="img-responsive"
-          style="display:inline-block;height:210px;padding-left:10px;margin-top:90px;vertical-align:top;"
-          src="macsek7.png"
-        /><img />
-        <img
-          style="display:inline-block;margin-left:50px;margin-top:30px;vertical-align:top;"
-          src="motto2.png"
-        /><img />
-      </div>
-
-      <div class="jumbotron headerMobile visible-xs visible-sm">
-        <img
-          class="img-responsive"
-          style="display:inline-block;height:100px;margin-top:20px;vertical-align: top;"
-          src="logo1.png"
-        /><img />
-        <h1 class="headerH1Mobile">Magyar<br />Csemeték<br />Közössége</h1>
-      </div>
-
-      <!-- MENU -->
-      <nav class="navbar navbar-light" style="font-size:20px;">
-        <button
-          type="button"
-          class="navbar-toggle"
-          data-toggle="collapse"
-          data-target="#menuBar"
-        >
-          <span
-            class="glyphicon glyphicon-menu-hamburger"
-            style="color:white;font-size:5vw;"></span>
-          <!--color:#fc792b-->
-        </button>
-        <div class="collapse navbar-collapse" id="menuBar">
-          <ul class="nav navbar-nav navColor">
-            <li><a href="index.php?page=about">Rólunk</a></li>
-            <li><a href="/">Hírek</a></li>
-            <li><a href="index.php?page=progams">Foglalkozások</a></li>
-            <li><a href="index.php?page=gallery">Galéria</a></li>
-            <li><a href="index.php?page=contact">Kapcsolat</a></li>
-          </ul>
-        </div>
-      </nav>
-      <div class="contentClass">
-        <div style="height:calc(50px + 5vw)">
-          <img
-            class="img-responsive"
-            style="display:inline-block;height:calc(50px + 5vw);float:right;"
-            src="images/kerekito_logo_kicsi.png"
-          /><img />
-          <h1>News</h1>
-          <ul>
+<BaseLayout>
+<ul>
             {
               news.map((item: Item) => (
                 <li>
                   <h2>{item.title}</h2>
                   <p>{item.date}</p>
-                  <p>{item.content}</p>
+                  <p set:html={item.content}>
                 </li>
               ))
             }
           </ul>
-          <img
-            class="img-responsive"
-            style="display:inline-block;height:calc(50px + 5vw);float:right;"
-            src="images/logo1.png"
-          /><img />
-        </div>
-      </div>
-      <div class="jumbotron footerClass"></div>
-    </div>
-  </body>
-</html>
+</BaseLayout>
