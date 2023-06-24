@@ -12,15 +12,16 @@ interface Item {
 }
 ---
 <BaseLayout>
-<ul>
-            {
-              news.map((item: Item) => (
-                <li>
-                  <h2>{item.title}</h2>
-                  <p>{item.date}</p>
-                  <p set:html={item.content}>
-                </li>
-              ))
-            }
-          </ul>
+<div class="newsClass">
+<div style="height:35px"></div>
+{
+news.map((item: Item) => (
+<img class="img-responsive" style="padding-left:10px;" src="news_divider4.png"></img>
+<div class="blueBar">
+<h2 style="margin-top:0px!important">{item.title}</h2>
+</div>
+<span>{item.date}</span>
+<p class="newsClass"set:html={item.content}/>
+))}
+</div>
 </BaseLayout>
