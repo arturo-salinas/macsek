@@ -46,24 +46,9 @@ const lastModified = year + "-" + month + "-" + day;
         /><img />
         <h1 class="headerH1Mobile">Magyar<br />Csemeték<br />Közössége</h1>
       </div>
-
       <Navigation />
-
+      <div class="commonClass">
       <slot />
-
-      <div class="contentClass">
-        <div style="height:calc(50px + 5vw)">
-          <img
-            class="img-responsive"
-            style="display:inline-block;height:calc(50px + 5vw);float:right;"
-            src="kerekito_logo_kicsi.png"
-          /><img />
-          <img
-            class="img-responsive"
-            style="display:inline-block;height:calc(50px + 5vw);float:right;"
-            src="logo1.png"
-          /><img />
-        </div>
       </div>
       <div class="jumbotron footerClass">
         Utoljára frissítve: {lastModified}
