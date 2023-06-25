@@ -6,7 +6,7 @@ layout: ../layouts/BaseLayout.astro
 
 ## HUNcutkodjunk, kalandra fel!
 
-A MACSEK Zeneovi csoportos magyar nyelvű foglalkozásaira 3-6 éves gyermekeket 
+A __MACSEK Zeneovi__ csoportos magyar nyelvű foglalkozásaira 3-6 éves gyermekeket 
 várunk. Az órák szülői részvétel nélkül zajlanak (a beszoktatási idő után). 
 A szülőnek lehetősége van a helységen belül várakozni igény esetén.
 
@@ -37,11 +37,12 @@ alapfelszerelésen túl szükség lesz váltó cipőre, valamint tízóraira. A 
 45 percesek. Tízórai szünet van a két tanóra között.
 
 A _foglalkozások menete_:
-2022-HT-2022-VT: Magyar nyelv és iradolom 1. osztály
 
-- aug. 14. 11-12h Szülői értekezlet és beiratkozás
-- aug. 21. 11-12h
-- aug. 28. és nov.27.között minden vasárnap 10-12h
+2023-HT: __Magyar nyelv és irodalom előkészítő csoport__
+augusztus 27-től vasárnaponként 15 alkalommal 9-9.45 óra között
+
+2023-HT: __Magyar nyelv és irodalom 1. osztály__
+augusztus 27-től vasárnaponként 15 alkalommal 10-12 óra között
 
 _Amire még a gyerekeknek szükségük lesz_:
 olvasókönyv és munkafüzet (infó a zárt csoportban lesz, a beszerzésbe besegítünk)
@@ -49,6 +50,20 @@ olvasókönyv és munkafüzet (infó a zárt csoportban lesz, a beszerzésbe bes
 négyzetrácsos füzet
 sima A4-es spirál füzet
 tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák
+
+A __Rezeda néptánc csoport__ helyszíne a Folkuniversitet egyik terme. Augusztus
+27-től vasárnaponként 1 alkalommal 13.30h-tól.A foglalkozás 1 órás. Táncra
+alkalmas öltözék szükséges:
+
+- táncos szoknya,táncos kopogós cipő - lányoknak
+- táncra alkalmas cipő- akár alkalmi- ,póló,rövid vagy hosszú nadrág- melegítő- fiúknak
+
+A csoportba való felvételi kérelem az alábbi adatlap kitöltésével történik: 
+A tagdíg összege: 1900 kr/ félév.
+
+Fizetési határidő: 2023. szeptember 1.
+
+Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét beírni.
 
 # Jelentkezés
 
@@ -59,24 +74,27 @@ A tagsági díja:
 - 1 gyermek esetén 1100 kr/félév,
 - 2 vagy több gyermekek esetén 1500 kr/félév.
 
-Fizetési határidő: 2022. szeptember 4. Bankgiro számunk: 544-2686 A közlemény
+Fizetési határidő: 2023. augusztus 25. Bankgiro számunk: 544-2686 A közlemény
 rovatba kérjük a gyermek(ek) nevét beírni. A __3 év alatti foglalkozások__
 belépti díja helyben történik swicheléssel.
+
+A __Ringató__ foglalkozások ingyenesek. Helyszíne a Folkuniversitet egyik terme. Ide
+szerdánként várjuk a babás, totyogós családokat 10 óratól.
 
 A __MACSEK Sulira__ a részvételi szándékot kérjük emailben jelezni a
 magyarcsemetekkozossege@gmail.com címünkre.
 
 A létszám korlátozott.
 
-- 2022-HT tagsági díja függ a jelentkező gyermekek létszámától.
+- 2023-HT tagsági díja függ a jelentkező gyermekek létszámától.
 
-Fizetési határidő: 2022. augusztus 21.
+Fizetési határidő: 2023. augusztus 25.
 
 Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét beírni.
 
 # Foglalkozásvezetők
 
-## MACSEK Zeneovi
+## MACSEK Zeneovi és a Rezeda néptánc csoport vezetője
 
 ### Hilda Salinas Lanchipa 
 
