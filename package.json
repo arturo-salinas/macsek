@@ -10,10 +10,30 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  "dependencies": {
-    "astro": "^2.6.6"
-  },
   "devDependencies": {
     "@types/node": "^20.3.1"
+  },
+  "description": "[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics) [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturo-salinas/macsek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturo-salinas/macsek/issues"
+  },
+  "homepage": "https://github.com/arturo-salinas/macsek#readme",
+  "dependencies": {
+    "@astrojs/image": "^0.12.1",
+    "@astrojs/react": "^2.2.1",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "astro": "^2.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swiper": "^9.4.1"
   }
 }
