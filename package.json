@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/arturo-salinas/macsek#readme",
   "dependencies": {
-    "@astrojs/image": "^0.12.1",
     "@astrojs/react": "^2.2.1",
+    "@szhsin/react-menu": "^4.0.0",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "astro": "^2.7.0",
