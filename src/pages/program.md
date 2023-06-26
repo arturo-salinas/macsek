@@ -59,7 +59,7 @@ alkalmas öltözék szükséges:
 - táncra alkalmas cipő- akár alkalmi- ,póló,rövid vagy hosszú nadrág- melegítő- fiúknak
 
 A csoportba való felvételi kérelem az alábbi adatlap kitöltésével történik: 
-A tagdíg összege: 1900 kr/ félév.
+A tagdíg összege:  kr/ félév.
 
 Fizetési határidő: 2023. szeptember 1.
 
@@ -100,38 +100,22 @@ Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét
 
 <img src=HildaElizaSalinas.jpg  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
-Az unokatestvéreim példáját követve minden vágyam volt hétévesen, hogy
-megtanuljak harmonikázni. Mivel a Zeneiskolában nem volt harmonikaoktatás, a
-választott hangszerem a fuvola lett. Tizennégy évesen felvettem emellé a
-zongorát, és tudatosan készültem a zenei pályára. 1998-ban végeztem a miskolci
-Zeneművészeti Főiskola szolfézs-zeneelmélet-karvezetés szakán. A főiskolai évek
-alatt Tiszaújvárosban, majd Budapesten tanítottam a hatévesektől egészen a
-felnőtt korosztályig. Svédországba kiköltözve ideiglenesen elhagytam a pályát.
-Helyette a zene iránti szeretetemet a táncban éltem ki, szabadidőmben
-rock&rollt, buggot, majd salsát (LA-style, NY-style, bachata) táncoltam.
+Kiskoromtól fogva életem része a zene és a tánc. 1998-ban végeztem a miskolci
+Zeneművészeti Főiskola szolfézs-zeneelmélet-karvezetés szakán, majd 2023.
+júniusában az Alba Régi Táncegyüttes 2 éves tanfolyamán résztvéve C kategóriájú
+néptáncossá váltam, és ezáltal néptánc csoportvezetői tanúsítvánnyal
+rendelkezem. Így indulhat útnak a Rezeda néptánc csoport, ahová 6-9 éves
+gyerekeket várok. Több hangszeren játszom: furulyát, fuvolát, kobozt, gitárt
+ukulelét, effekhangszereket és néha a zongorát is megszólaltatom a zeneoviban. A
+foglalkozásaimon ötvözöm a drámajátékot a zenével, így bízva abban, hogy a
+gyerekek élményben gazdagon térnek haza. Folyamatos képzem magam, többek között
+elvégeztem a Ringató és Kerekítő baba-mama foglalkozásvezetői tanfolyamokat is,
+aminek köszönhetően Ringató baba-mama/papa foglalkozásokat tartok a
+Folkuniversitet-ben, valamint Kerekítő Manó rendszeresen látogatja a zeneovis
+foglalkozásokat. Három gyerekes családanyaként tevékenykedem önkéntesként az
+egyesületben.
 
-Férjem indíttatására kezdtem el altfurulyán játszani, majd kislányunk születése
-végképp visszaterelt a pályámra. 2018 tavaszán elvégeztem mind a Ringató, mind a
-Kerekítő baba-mama foglalkozásvezetői tanfolyamot. Vágyam volt, hogy
-Stockholmban rendszeres magyar baba-mama/papa foglalkozások legyenek. 2018 őszén
-ez meg is valósult, és elindíthattam a Ringató foglalkozásokat a S:ta Eugenia
-jezsuita templom támogatásával. Ezzel egyidőben elkezdtem citerázni, gitározni
-és kobozolni, hogy a gyermekek minél több fajta hangszerrel találkozhassanak a
-foglalkozásokon.
-
-A 2019 tavaszán létrehozott MACSEK egyesülettel szeretnék hozzájárulni ahhoz,
-hogy rendszeres magyar foglalkozások legyenek elérhetőek a 3-6 éves
-korosztálynak. Ebben a korban a gyerekek csoportosan, játszva és mozgásokkal
-tarkítva tanulják, és válik életük részévé a magyar kultúra és hagyomány. A
-választásom a Kerekítő Ovimóka módszertanára esett, amely ötvözi a drámai és
-zenei elemeket. Komplex szemléletmódjával közösségi élményt és örömet tud
-biztosítani a külföldön élő magyar gyermekeknek, ami által közösség és csapat
-kovácsolódik belőlük.
-
-Azóta évente különböző továbbképzésen veszek részt, hogy minél gazdagabb és
-sokoldalú élményben tudjam részesíteni a hozzám járó gyerekeket.
-
-Szeretettel várlak benneteket a foglalkozásokra!
+Szeretettel várlak benneteket a foglalkozásaimra!
 
 ## MACSEK Suli
 
