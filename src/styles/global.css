@@ -1,7 +1,7 @@
 
 	@font-face {
       font-family: macsek;
-      src: url("fonts/KidzoneFontPro.ttf");
+      src: url("/fonts/KidzoneFontPro.ttf");
    } 
    
    body{
@@ -39,7 +39,7 @@
 	}
 	
 	.headerClass {
-	background: url(headerbg_summer4.png) top center;
+	background: url(/headerbg_summer4.png) top center;
 	margin: 0px;
 	padding: 10px 250px 38px 250px;
 	min-width:1296px!important;
@@ -123,3 +123,7 @@
 		margin-bottom:20px;
 	}
 	.blueBar > h2 {margin-top:0px!important}
+
+img.test {
+    max-width: 100%;
+}
