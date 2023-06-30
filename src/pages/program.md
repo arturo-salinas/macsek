@@ -98,7 +98,7 @@ Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét
 
 ### Hilda Salinas Lanchipa 
 
-<img src=HildaElizaSalinas.jpg  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
+<img src="/HildaElizaSalinas.jpg" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
 Kiskoromtól fogva életem része a zene és a tánc. 1998-ban végeztem a miskolci
 Zeneművészeti Főiskola szolfézs-zeneelmélet-karvezetés szakán, majd 2023.
@@ -121,7 +121,7 @@ Szeretettel várlak benneteket a foglalkozásaimra!
 
 ### Tóthné Vermes Zita 
 
-<img src=teacher.jpg  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
+<img src=/teacher.jpg  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
 Már kisgyerekként tanári pályára készültem. Családunkban hagyomány a tanítás,
 édesanyám, testvérem pedagógus, nagyapám is kántortanító volt. A családi példa
