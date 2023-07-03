@@ -1,5 +1,7 @@
 ---
 layout: ../layouts/BaseLayout.astro
+title: Kapcsolat
+contactActive: true
 ---
 # Kapcsolat
 

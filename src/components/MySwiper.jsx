@@ -8,7 +8,6 @@ import 'swiper/css/scrollbar';
 export default function MySwiper() {
   return (
    <Swiper
-      // install Swiper modules
       modules={[Navigation, Pagination, Scrollbar, A11y]}
       spaceBetween={10}
       slidesPerView={1}

@@ -6,49 +6,52 @@ let day = date.getDate();
 let month = date.getMonth() + 1;
 let year = date.getFullYear();
 const lastModified = year + "-" + month + "-" + day;
+const { title } = Astro.props.frontmatter || Astro.props
+const { newsActive } = Astro.props.frontmatter || Astro.props
+const { aboutActive } = Astro.props.frontmatter || Astro.props
+const { programActive } = Astro.props.frontmatter || Astro.props
+const { teachersActive } = Astro.props.frontmatter || Astro.props
+const { galleryActive } = Astro.props.frontmatter || Astro.props
+const { contactActive } = Astro.props.frontmatter || Astro.props
 ---
 <html lang="en">
   <head>
-    <title>MACSEK</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
-    />
-    <script is:inline src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"/>
-    <script is:inline src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"/>
+    <title>{ title }</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" 
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
   </head>
   <body>
     <div class="container-fluid">
-      <div class="jumbotron headerClass hidden-xs hidden-sm">
-        <img
-          class="img-responsive"
-          style="display:inline-block;height:200px;margin-top:40px;padding-left:5vw;vertical-align: top;"
-          src="/logo1.png"
-        /><img />
+      <div class="header d-none d-lg-block">
+        <div class="row">
+         <div class="col left">
+        <p><img src="/logo1.png" style="height: 200px;margin-top: 40px; padding-left: 5vw;"/></p>
+          </div> 
+          <div class="col-4">
         <h1 class="headerH1">Magyar<br/>Csemeték<br/>Közössége</h1>
-        <img
-          class="img-responsive"
-          style="display:inline-block;height:210px;padding-left:10px;margin-top:90px;vertical-align:top;"
-          src="/macsek7.png"
-        /><img />
-        <img
-          style="display:inline-block;margin-left:50px;margin-top:30px;vertical-align:top;"
-          src="/motto2.png"
-        /><img />
+          </div>
+          <div class="col">
+        <p><img src="/macsek7.png" style="margin-top: 90px"></p>
+          </div>
+          <div class="col right">
+        <p><img src="/motto2.png" style="margin-top: 50px" class="d-none d-xl-block"></p>
+          </div>
+        </div>
       </div>
-
-      <div class="jumbotron headerMobile visible-xs visible-sm">
+    <div class=" headerMobile d-block d-lg-none">
         <img
           class="img-responsive"
           style="display:inline-block;height:100px;margin-top:20px;vertical-align: top;"
-          src="/logo1.png"
-        /><img />
+          src="/logo1.png"/>
         <h1 class="headerH1Mobile">Magyar<br />Csemeték<br />Közössége</h1>
       </div>
-      <Navigation />
+    <Navigation newsActive={ newsActive}
+                aboutActive={ aboutActive} programActive={ programActive}
+                teachersActive={ teachersActive} galleryActive={galleryActive}
+                contactActive= { contactActive }/>
       <div class="commonClass">
         <slot />
       </div>
@@ -56,5 +59,6 @@ const lastModified = year + "-" + month + "-" + day;
         Utoljára frissítve: {lastModified}
       </div>
     </div>
+   <script is:inline src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>  
   </body>
 </html>

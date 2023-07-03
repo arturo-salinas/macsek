@@ -4,14 +4,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const response = await fetch('https://macsek.se/news.json');
 const news = await response.json();
 
-
 interface Item {
   title: string;
   date: string;
   content: string;
 }
 ---
-<BaseLayout>
+<BaseLayout title="Hírek" newsActive="true">
 <div class="newsClass">
 <div style="height:35px"></div>
 {

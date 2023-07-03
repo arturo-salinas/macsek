@@ -1,5 +1,8 @@
 ---
 layout: ../layouts/BaseLayout.astro
+title: Rólunk
+newsActive: false
+aboutActive: true
 ---
 
 # Szeretettel köszöntünk a MACSEK honlapján!
@@ -23,12 +26,8 @@ nemzedék újra meg újra meg nem szerzi magának. (Kodály Zoltán)
 A foglalkozásokat tagjaink látogathatják, akik az adott félévre befizették a
 tagsági díjat.
 
-A MACSEK Zeneovi 3-6 éves, a MACSEK Suli 6-7 éves gyerekeknek szól. A
-jelentkezést e-mailben kérjük megerősíteni a magyarcsemetekkozossege@gmail.com
+A jelentkezést e-mailben kérjük megerősíteni a magyarcsemetekkozossege@gmail.com
 e-mail címre.
-
-3 év alatti gyermekek részére alkalmi foglalkozásokat hírdetünk meg támogatási
-díj fejében, ami egy jelképes összeg.
 
 A tagdíjat fizető családok az egyesület tagjává válnak, és ennek köszönhetően
 szavazati joggal rendelkeznek az egyesület közgyűlésén.
@@ -49,12 +48,12 @@ Az egyesület alapszabálya itt érhető el.
 
 # Vezetőség
 
-Hilda Salinas Lanchipa – elnök
+Salinas Lanchipa Hilda – elnök
 
-Bacsik Velekey Viktoria – alelnök
+Lieb Márta - alelnök
 
 Nyitrai-Ott Bernadett – titkár
 
 Arturo Agapito Salinas Lanchipa – pénztáros
 
-Lieb Marta - póttag
+Tóth Imola - póttag

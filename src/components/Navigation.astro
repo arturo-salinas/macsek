@@ -1,22 +1,59 @@
-<nav class="navbar navbar-light" style="font-size:20px;">
-    <button
-        type="button"
-        class="navbar-toggle"
-        data-toggle="collapse"
-        data-target="#menuBar"
-    >
-        <span
-            class="glyphicon glyphicon-menu-hamburger"
-            style="color:white;font-size:5vw;"></span>
-        <!--color:#fc792b-->
-    </button>
-    <div class="collapse navbar-collapse" id="menuBar">
-        <ul class="nav navbar-nav navColor">
-            <li><a href="/about">Rólunk</a></li>
-            <li><a href="/">Hírek</a></li>
-            <li><a href="/program">Foglalkozások</a></li>
-            <li><a href="/gallery">Galéria</a></li>
-            <li><a href="/contact">Kapcsolat</a></li>
-        </ul>
-    </div>
+---
+//TODO: Make bold font in the navigation bar
+
+const { newsActive } = Astro.props
+const { aboutActive } = Astro.props
+const { programActive } = Astro.props
+const { teachersActive } = Astro.props
+const { galleryActive } = Astro.props
+const { contactActive } = Astro.props
+---
+<nav class="navbar navbar-expand-lg" data-bs-theme="dark" style="background-color: #fc792b">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+{ newsActive ? 
+        <a class="nav-link active" href="/">Hírek</span></a>
+:       <a class="nav-link" href="/">Hírek</span></a> }
+      </li>
+      <li class="nav-item">
+{ aboutActive ?
+        <a class="nav-link active" href="/about">Rólunk</a>
+:       <a class="nav-link" href="/about">Rólunk</a> }
+      </li> 
+      <li class="nav-item dropdown">
+{ programActive ?
+        <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Foglalkozások
+        </a>
+:        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Foglalkozások
+        </a> }
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="background-color: #ff692b">
+          <a class="dropdown-item" href="/ringato">Ringató baba-mama/papa foglalkozás</a>
+          <a class="dropdown-item" href="/zeneovi_program">MACSEK Zeneovi</a>
+          <a class="dropdown-item" href="/suli_program">MACSEK Suli</a>
+          <a class="dropdown-item" href="/dance">Néptánc</a>
+        </div>
+      </li>
+      <li class="nav-item">
+{ teachersActive ?     
+        <a class="nav-link active" href="/teachers">Foglalkozásvezetők</a>
+:       <a class="nav-link" href="/teachers">Foglalkozásvezetők</a> }
+      </li>
+      <li class="nav-item">
+{ galleryActive ?        
+        <a class="nav-link active" href="/gallery">Galéria</a>
+:        <a class="nav-link" href="/gallery">Galéria</a> }
+      </li>
+      <li class="nav-item">
+{ contactActive ?       
+        <a class="nav-link active" href="/contact">Kapcsolat</a>
+:        <a class="nav-link" href="/contact">Kapcsolat</a> }
+      </li>
+    </ul>
+  </div>
 </nav>
