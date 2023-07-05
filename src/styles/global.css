@@ -87,6 +87,21 @@
 	}
 	.blueBar > h2 {margin-top:0px!important}
 
+.nav-item>a:hover {
+	color: green;
+}
+
+.navbar-nav>.active>a {
+	background-color: #C0C0C0;
+	color: green;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+	background-color: #f2f516;
+	color: black !important;
+}
+
 img.test {
     max-width: 100%;
 }
