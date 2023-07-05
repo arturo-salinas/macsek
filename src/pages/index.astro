@@ -11,8 +11,7 @@ interface Item {
 }
 ---
 <BaseLayout title="Hírek" newsActive="true">
-<div class="newsClass">
-<div style="height:35px"></div>
+<div style="height:20px"></div>
 {
 news.map((item: Item) => (
 <img class="img-responsive" style="padding-left:10px;" src="news_divider4.png"></img>
@@ -22,5 +21,4 @@ news.map((item: Item) => (
 <span>{item.date}</span>
 <p class="newsClass"set:html={item.content}/>
 ))}
-</div>
 </BaseLayout>

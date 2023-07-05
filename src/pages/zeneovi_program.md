@@ -4,7 +4,6 @@ title: MACSEK Zeneovi
 programActive: true
 ---
 
-# MACSEK Zeneovi
 
 ## HUNcutkodjunk, kalandra fel!
 

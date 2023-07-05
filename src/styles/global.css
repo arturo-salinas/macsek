@@ -83,9 +83,9 @@
 		padding:10px 40px 7px 40px;
 		color:white;
 		border-radius:8px;
+		margin-top:-7px;
 		margin-bottom:20px;
 	}
-	.blueBar > h2 {margin-top:0px!important}
 
 .nav-item>a:hover {
 	color: green;
@@ -104,4 +104,17 @@
 
 img.test {
     max-width: 100%;
+}
+
+h1 {
+	font-family: Calibri, "Helvetica", san-serif;
+	line-height: 1.5em;
+	color: green;
+	font-size: 40px;
+}
+
+h1:after {
+	content: ' ';
+	display: block;
+	border: 2px solid green;
 }

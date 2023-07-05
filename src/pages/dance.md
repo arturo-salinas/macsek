@@ -3,7 +3,7 @@ layout: ../layouts/BaseLayout.astro
 title: Néptánc
 programActive: true
 ---
-# Rezeda
+# Rezeda néptánc csoport
 
 A __Rezeda__ néptánc csoportba 6-9 éves gyerekeket várunk augusztus
 27-től vasárnaponként 15 alkalommal 13.30h-tól. A foglalkozás 1 órás. Táncra

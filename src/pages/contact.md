@@ -3,7 +3,6 @@ layout: ../layouts/BaseLayout.astro
 title: Kapcsolat
 contactActive: true
 ---
-# Kapcsolat
 
 <span class="glyphicon glyphicon-envelope"></span>
 E-mail címünk: magyarcsemetekkozossege@gmail.com

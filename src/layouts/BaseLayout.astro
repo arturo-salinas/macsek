@@ -1,6 +1,8 @@
 ---
 import "../styles/global.css";
 import Navigation from "../components/Navigation.astro";
+import Title from "../components/Title.astro"
+
 const date = new Date();
 let day = date.getDate();
 let month = date.getMonth() + 1;
@@ -14,9 +16,8 @@ const { teachersActive } = Astro.props.frontmatter || Astro.props
 const { galleryActive } = Astro.props.frontmatter || Astro.props
 const { contactActive } = Astro.props.frontmatter || Astro.props
 
-//TODO: Add component to show the title of the page
-//TODO: Improve headlines
 //TODO: Change cat in the banner
+//TODO: Update news
 ---
 <html lang="en">
   <head>
@@ -35,7 +36,7 @@ const { contactActive } = Astro.props.frontmatter || Astro.props
         <p><img src="/logo1.png" style="height: 200px;margin-top: 40px; padding-left: 5vw;"/></p>
           </div> 
           <div class="col-4">
-        <h1 class="headerH1">Magyar<br/>Csemeték<br/>Közössége</h1>
+        <h2 class="headerH1">Magyar<br/>Csemeték<br/>Közössége</h2>
           </div>
           <div class="col">
         <p><img src="/macsek7.png" style="margin-top: 90px"></p>
@@ -45,18 +46,20 @@ const { contactActive } = Astro.props.frontmatter || Astro.props
           </div>
         </div>
       </div>
-    <div class=" headerMobile d-block d-lg-none">
+      <div class=" headerMobile d-block d-lg-none">
         <img
           class="img-responsive"
           style="display:inline-block;height:100px;margin-top:20px;vertical-align: top;"
           src="/logo1.png"/>
-        <h1 class="headerH1Mobile">Magyar<br />Csemeték<br />Közössége</h1>
+        <h2 class="headerH1Mobile">Magyar<br />Csemeték<br />Közössége</h2>
       </div>
     <Navigation newsActive={ newsActive}
                 aboutActive={ aboutActive} programActive={ programActive}
                 teachersActive={ teachersActive} galleryActive={galleryActive}
-                contactActive= { contactActive }/>
+                contactActive={ contactActive }/>
       <div class="commonClass">
+        { !newsActive && 
+        <Title title={ title }></Title> }
         <slot />
       </div>
       <div class="jumbotron footerClass">
