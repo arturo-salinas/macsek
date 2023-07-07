@@ -76,6 +76,7 @@
 		margin-bottom:0px;
 		padding: 20px;
 		color:#fc792b;
+		background-color: #C9C9C9;
 	}
 	
 	.blueBar{
@@ -88,12 +89,12 @@
 	}
 
 .nav-item>a:hover {
-	color: green;
+	color: yellow;
 }
 
 .navbar-nav>.active>a {
 	background-color: #C0C0C0;
-	color: green;
+	color: yellow;
 }
 
 .dropdown-item:focus,

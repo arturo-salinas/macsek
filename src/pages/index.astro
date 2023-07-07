@@ -1,24 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-
-const response = await fetch('https://macsek.se/news.json');
-const news = await response.json();
-
-interface Item {
-  title: string;
-  date: string;
-  content: string;
-}
+import Title from '../components/Title.astro';
 ---
 <BaseLayout title="Hírek" newsActive="true">
-<div style="height:20px"></div>
-{
-news.map((item: Item) => (
-<img class="img-responsive" style="padding-left:10px;" src="news_divider4.png"></img>
-<div class="blueBar">
-<h2 style="margin-top:0px!important">{item.title}</h2>
+  <Title title="2023 őszi félév"></Title>
+<span>2023-07-05</span><br>
+<div class="row">
+<img src="/news/cat_day.png" class="img-responsive">
 </div>
-<span>{item.date}</span>
-<p class="newsClass"set:html={item.content}/>
-))}
 </BaseLayout>
