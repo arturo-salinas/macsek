@@ -5,6 +5,8 @@ programActive: true
 ---
 # Rezeda néptánc csoport
 
+<img src="/rezeda_logo.png" style="width:25vw;border-radius:1vw;margin-right:5vw;" >
+
 A __Rezeda__ néptánc csoportba 6-9 éves gyerekeket várunk augusztus
 27-től vasárnaponként 15 alkalommal 13.30h-tól. A foglalkozás 1 órás. Táncra
 alkalmas öltözék szükséges:
