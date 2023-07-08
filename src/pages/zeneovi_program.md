@@ -4,6 +4,7 @@ title: MACSEK Zeneovi
 programActive: true
 ---
 
+<img src="/Puppet.png" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
 ## HUNcutkodjunk, kalandra fel!
 

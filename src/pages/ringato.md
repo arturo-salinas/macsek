@@ -1,15 +1,18 @@
 ---
 layout: ../layouts/BaseLayout.astro
-title: Ringató
+title: Ringató baba-mama/papa foglalkozás
 programActive: true
 ---
+
+<img src="/ringato.png" style="width:15vw;border-radius:1vw;margin-right:5vw; margin-bottom:2vw" >
+
 
 A __Ringató__ foglalkozások ingyenesek. Helyszíne a Folkuniversitet egyik terme. Ide
 szerdánként várjuk a babás, totyogós családokat 10 óratól. Bejelentkezés nem 
 szükséges. A pontos teremszámot a https://www.facebook.com/ringato.stockholm facebook 
 oldalon kírjuk ki minden egyes foglalkozás előtt.
 
-2023_HT: Szeptember és október hónapban minden szerdán
+2023-HT: Szeptember és október hónapban minden szerdán
 
 
 # Helyszín
