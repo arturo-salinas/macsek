@@ -68,8 +68,8 @@
 	
 	.commonClass {
 		font-size: calc(14px + 0.4vw);
-		padding-left:10vw;
-		padding-right:10vw;
+		padding-left:5vw;
+		padding-right:5vw;
 		text-align: justify;
 	}
 	
@@ -110,6 +110,7 @@ img.test {
 
 h1 {
 	font-family: Calibri, "Helvetica", san-serif;
+	text-align: left;
 	line-height: 1.5em;
 	color: green;
 	font-size: 40px;
