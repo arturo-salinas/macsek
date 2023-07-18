@@ -12,10 +12,10 @@ A __Rezeda__ néptánc csoportba 6-9 éves gyerekeket várunk augusztus
 alkalmas öltözék szükséges:
 
 - táncos pörgős szoknya, táncos kopogós cipő, fehér póló - lányoknak
-- táncra alkalmas cipő- akár alkalmi- ,fehér póló, rövid vagy hosszú nadrág- melegítő- fiúknak
+- táncra alkalmas cipő- akár alkalmi- , fehér póló, rövid vagy hosszú nadrág- melegítő- fiúknak
 
 A csoportba való felvételi kérelem az alábbi adatlap kitöltésével történik: 
-A tagdíg összege: 1900 kr/ félév.
+A tagdíj összege: 1900 kr/ félév.
 
 Fizetési határidő: 2023. szeptember 1.
 
