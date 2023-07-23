@@ -7,7 +7,7 @@ aboutActive: true
 
 # Välkomna till MACSEK:s hemsida med kärlek!
 
-MACSEK - Ungerska Småplantors Gemenskap, bildades som en icke-vinstdrivande 
+MACSEK - , bildades som en icke-vinstdrivande 
 förening i mars 2019 genom samarbete av ungerska föräldrar bosatta i Stockholm. 
 Även om vi lever långt ifrån Ungern, är det viktigt för oss att vidarebefordra 
 språkliga och kulturella traditioner till våra barn, precis som vi själva lärde 
@@ -44,12 +44,12 @@ Föreningens grundregler finns här.
 
 # Styrelse
 
-Salinas Lanchipa Hilda - ordförande
+Hilda Salinas Lanchipa  - ordförande
 
-Lieb Márta - vice ordförande
+Márta Lieb  - vice ordförande
 
-Nyitrai-Ott Bernadett - sekreterare
+Bernadett Nyitrai-Ott  - sekreterare
 
 Arturo Agapito Salinas Lanchipa - kassör
 
-Tóth Imola - suppleant
+Imola Tóth  - suppleant

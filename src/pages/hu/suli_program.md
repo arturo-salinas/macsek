@@ -21,8 +21,7 @@ alapfelszerelésen túl szükség lesz váltó cipőre, valamint tízóraira. A 
 
 _Amire még a gyerekeknek szükségük lesz_: <br/>
 - olvasókönyv és munkafüzet (infó a zárt csoportban lesz, a beszerzésbe besegítünk)<br/>
-- Első osztályos vonalas füzet
-- négyzetrácsos füzet
+- első osztályos vonalas füzet
 - sima A4-es spirál füzet
 - tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák
 

@@ -15,7 +15,7 @@ Zeneművészeti Főiskola szolfézs-zeneelmélet-karvezetés szakán, majd 2023.
 júniusában az Alba Régi Táncegyüttes 2 éves tanfolyamán résztvéve C kategóriájú
 néptáncossá váltam, és ezáltal néptánc csoportvezetői tanúsítvánnyal
 rendelkezem. Így indulhat útnak a Rezeda néptánc csoport, ahová 6-9 éves
-gyerekeket várok. Több hangszeren játszom: furulyát, fuvolát, kobozt, gitárt
+gyerekeket várok. Több hangszeren játszom: furulyát, fuvolát, citerát, kobozt, gitárt
 ukulelét, effekhangszereket és néha a zongorát is megszólaltatom a zeneoviban. A
 foglalkozásaimon ötvözöm a drámajátékot a zenével, így bízva abban, hogy a
 gyerekek élményben gazdagon térnek haza. Folyamatos képzem magam, többek között

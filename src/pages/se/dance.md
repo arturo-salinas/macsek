@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: Folkdans
+title: Ungersk folkdans
 programActive: true
 ---
 # Rezeda folkdansgrupp
@@ -11,11 +11,12 @@ Vi välkomnar barn i åldern 6-9 år till __Rezeda__ folkdansgrupp från den 27
 augusti, varje söndag, totalt 15 gånger mellan kl. 13:30 och kl. 14:30. Varje
 lektion varar 1 timme. Passande klädsel för dansen krävs:
 
-- svängig danskjol, dansande stegskor, vit t-shirt - för flickor
-- dansskor - även finklädda, vit t-shirt, korta eller långa byxor - uppvärmning
+- svängig danskjol, dansskor, vit t-shirt - för flickor
+- dansskor, vit t-shirt, korta eller långa byxor - 
   för pojkar
 
 Ansökan för att gå med i gruppen görs genom att fylla i följande formulär:
+
 Medlemsavgift: 1900 SEK/termin.
 
 Betalningsfrist: 1 september 2023.

@@ -23,7 +23,6 @@ Vad barnen kommer att behöva: <br/>
 
 - Läsbok och arbetsbok (informationen kommer att finnas i den slutna gruppen, vi hjälper till med inköp) <br/>
 - Linjerad skrivbok för första klass <br/>
-- Rutad skrivbok <br/>
 - Vanlig A4-spiralbok <br/>
 - Pennskrin med 2-3 vanliga HB-blyertspennor, suddgummi, pennvässare, färgpennor
 
@@ -40,20 +39,20 @@ Vårt bankgiro-nummer: 544-2686. Vänligen ange barnets/den barns namn i meddela
 # Schema
 
 2023-HT: Förberedande grupp för ungerska språk och litteratur
-Från den 27 augusti, varje söndag, totalt 15 gånger mellan 9:00 och 9:45.
+från den 27 augusti, varje söndag, totalt 15 gånger mellan 9:00 och 9:45.
 
 2023-HT: Ungerska språk och litteratur för första klass
-Från den 27 augusti, varje söndag, totalt 15 gånger mellan 10:00 och 12:00.
+från den 27 augusti, varje söndag, totalt 15 gånger mellan 10:00 och 12:00.
 
 ## Hösttermin
 
-Start: 27 augusti 2023."
+Start: 27 augusti 2023.
 
 # Plats
 
 Stefansgården <br>
 Frejgatan 43 <br>
 11349 Stockholm <br>
-(az Odenplan metrómegállótól 5 perc séta)
+(5 minuters promenad från Odenplan tunnelbanestation)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.1817925750704!2d18.052361116072966!3d59.34661318166485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d6dd98e6025%3A0x4cb2a56e9f2ffdc3!2sFrejgatan%2043%2C%20113%2049%20Stockholm!5e0!3m2!1sen!2sse!4v1566977117455!5m2!1sen!2sse"  style="width:100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: MACSEK Musikskola
+title: MACSEK Musikförskola
 programActive: true
 ---
 
@@ -8,14 +8,14 @@ programActive: true
 
 ## Låt oss klippa loss och ge oss ut på ett äventyr!
 
-Vi välkomnar barn i åldern 3-6 år till gruppaktiviteter på ungerska vid __MACSEK Musikskola__. 
+Vi välkomnar barn i åldern 3-6 år till gruppaktiviteter på ungerska __MACSEK Musikförskola__. 
 Kurserna hålls utan föräldraengagemang (efter anpassningsperioden). Föräldrar 
 har möjlighet att vänta inom lokalerna om så önskas.
 
 Aktiviteterna följer följande schema:
 
 - 9:30-10:00 Fri lek
-- 10:00-10:40 Musikskola för de små
+- 10:00-10:40 Musikförskola för de små
 - 10:40-11:00 Rast
 - 11:00-11:30 Pysselverkstad
 
@@ -24,7 +24,7 @@ Användbar information:
 - Klädsel: inomhusskor
 - Endast friska barn får delta i aktiviteterna
 
-För att delta i MACSEK Musikskola, vänligen meddela ert intresse via e-post till magyarcsemetekkozossege@gmail.com.
+För att delta i MACSEK Musikförskola, vänligen meddela ert intresse via e-post till magyarcsemetekkozossege@gmail.com.
 
 ## Medlemsavgifter:
 
@@ -34,11 +34,11 @@ Betalningsfrist: 25 augusti 2023. Vårt bankgiro-nummer: 544-2686. Vänligen ang
 
 # Schema
 
-MACSEK Musikskola har veckovisa aktiviteter varje söndag, med totalt 12 eller 13 sessioner per termin.
+MACSEK Musikförskola har veckovisa aktiviteter varje söndag, med totalt 12 eller 13 sessioner per termin.
 
 ## Hösttermin
 
-Start: 27 augusti 2023."
+Start: 27 augusti 2023.
 
 # Plats
 

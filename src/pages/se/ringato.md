@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: Ringató bebis-mamma/pappa aktivitet
+title: Ringató baby-mamma/pappa aktivitet
 programActive: true
 ---
 
@@ -8,7 +8,7 @@ programActive: true
 
 __Ringató__ aktiviteter är gratis. Platsen är en av salarna på Folkuniversitetet. Vi välkomnar familjer med bebisar och småbarn på onsdagar från kl. 10. Ingen anmälan behövs. Den exakta salen kommer att meddelas på https://www.facebook.com/ringato.stockholm före varje aktivitet.
 
-2023-HT: Varje onsdag under september och oktober."
+2023-HT: Varje onsdag under september och oktober.
 
 
 # Plats

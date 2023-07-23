@@ -15,6 +15,7 @@ alkalmas öltözék szükséges:
 - táncra alkalmas cipő- akár alkalmi- , fehér póló, rövid vagy hosszú nadrág- melegítő- fiúknak
 
 A csoportba való felvételi kérelem az alábbi adatlap kitöltésével történik: 
+
 A tagdíj összege: 1900 kr/ félév.
 
 Fizetési határidő: 2023. szeptember 1.

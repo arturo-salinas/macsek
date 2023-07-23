@@ -1,35 +1,35 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: Företagsledare
+title: Gruppledaren
 teachersActive: true
 ---
 
-# MACSEK Zeneovi és a Rezeda néptánc csoport vezetője
+# MACSEK Musikförskola och Rezeda folkdansgrupp
 
 ### Hilda Salinas Lanchipa 
 
 <img src="/HildaElizaSalinas.jpg" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
 Sedan jag var liten har musik och dans varit en del av mitt liv. År 1998 tog jag
-examen från Miskolci College of Music i avdelningen för solfège, musikteori och
-dirigering. Sedan i juni 2023 har jag blivit en C-klassad folkdansare efter att
-ha deltagit i en 2-årig kurs med Alba Old Dance Ensemble, och jag har nu en
-certifiering som folkdansgruppledare. På så sätt kan Rezeda folkdansgrupp sättas
+examen på Musikhögskolan i Miskolc med inriktning solfège, musikteori och
+kördirigering. Sedan i juni 2023 har jag blivit en C-klassad folkdansare efter att
+ha deltagit i en 2-årig kurs med Alba Régia Dance Ensemble, och jag har nu en
+certifiering som gruppledare i ungerska folkdans. På så sätt kan Rezeda folkdansgrupp sättas
 igång, där jag välkomnar barn mellan 6 och 9 år. Jag spelar flera olika
-instrument: flöjt, blockflöjt, luta, gitarr, ukulele, effektinstrument och
-ibland även piano på musikskolan. På mina lektioner kombinerar jag dramalekar
-med musik, i förhoppning om att ge barnen en upplevelserik upplevelse. Jag
+instrument: flöjt, blockflöjt, citera och koboz (ungerska folkinstrument), gitarr, ukulele, effektinstrument och
+ibland även piano på MACSEK musikförskolan. På mina lektioner kombinerar jag dramalekar
+med musik, i förhoppning om att ge barnen  upplevelse. Jag
 utbildar mig kontinuerligt och har bland annat genomfört Ringató och Kerekítő
-baby-mama-lektörsutbildningar, vilket möjliggör att jag håller Ringató
-baby-mama/papa-sessioner på Folkuniversitetet, och Kerekítő Manó (en ungersk
-musikfigur för barn) besöker regelbundet musikskolans lektioner. Som en mamma
+baby-mama/papa gruppledare utbildningar, vilket möjliggör att jag håller Ringató
+baby-mama/papa klasser på Folkuniversitetet, och Kerekítő Manó (en ungersk
+karakter handdocka för barn) besöker regelbundet musikförskolans lektioner. Som mamma
 till tre barn, är jag också en frivillig medarbetare i föreningen.
 
 Jag välkomnar er varmt till mina lektioner!
 
 # MACSEK Skola
 
-### Tóthné Vermes Zita 
+### Zita Tóthné Vermes
 
 <img src=/teacher.jpg  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
@@ -42,8 +42,8 @@ och jag kunde inte föreställa mig något annat än att bli pedagog.
 2000, genomförde jag lärarutbildningen, och 2015 avslutade jag min
 magisterutbildning i sång och musik som lärare.
 
-I Ungern började jag arbeta som barn- och ungdomsfostrare och yrkesvägledare.
-När mina egna barn var små, ledde jag musikskolans lektioner, och innan vi
+I Ungern började jag arbeta inom barn- och ungdomsskyddsråd och yrkesvägledare.
+När mina egna barn var små, hade jag musikförskola klasser, och innan vi
 flyttade till Sverige arbetade jag som lärare; först på en praktikskola, där
 mentorering av blivande pedagoger var en del av arbetet, och senare på en mindre
 skola med en familjär atmosfär.
@@ -54,4 +54,4 @@ sånggruppen Family Singers, där jag är en av konstnärliga ledarna. Vi har
 framträtt framgångsrikt på många internationella festivaler och tävlingar med
 vår sånggrupp.
 
-Vi har sex barn i vår familj. År 2019 flyttade vi till Sverige tillsammans.
+Vi har sex barn i vår familj och år 2019 flyttade vi till Sverige.
