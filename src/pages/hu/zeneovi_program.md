@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: ../../layouts/BaseLayout.astro
 title: MACSEK Zeneovi
 programActive: true
 ---
@@ -26,7 +26,8 @@ Hasznos tudnivalók:
 A __MACSEK Zeneovira__ a részvételi szándékot kérjük e-mailben jelezni a
 magyarcsemetekkozossege@gmail.com címünkre.
 
-A tagsági díja:
+## A tagsági díja:
+
 - 1 gyermek esetén 1100 kr/félév,
 - 2 vagy több gyermekek esetén 1500 kr/félév.
 
