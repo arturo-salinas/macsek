@@ -15,7 +15,7 @@ lektion varar 1 timme. Passande klädsel för dansen krävs:
 - dansskor, vit t-shirt, korta eller långa byxor - 
   för pojkar
 
-Ansökan för att gå med i gruppen görs genom att fylla i följande formulär:
+För att delta i Rezeda folkdansgrupp, vänligen meddela ert intresse via e-post till magyarcsemetekkozossege@gmail.com.
 
 Medlemsavgift: 1900 SEK/termin.
 

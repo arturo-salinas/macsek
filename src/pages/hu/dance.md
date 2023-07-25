@@ -14,7 +14,8 @@ alkalmas öltözék szükséges:
 - táncos pörgős szoknya, táncos kopogós cipő, fehér póló - lányoknak
 - táncra alkalmas cipő- akár alkalmi- , fehér póló, rövid vagy hosszú nadrág- melegítő- fiúknak
 
-A csoportba való felvételi kérelem az alábbi adatlap kitöltésével történik: 
+A részvételi szándékot kérjük e-mailben jelezni a
+magyarcsemetekkozossege@gmail.com címünkre.
 
 A tagdíj összege: 1900 kr/ félév.
 
