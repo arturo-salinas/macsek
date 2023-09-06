@@ -12,18 +12,17 @@ teachersActive: true
 
 Sedan jag var liten har musik och dans varit en del av mitt liv. År 1998 tog jag
 examen på Musikhögskolan i Miskolc med inriktning solfège, musikteori och
-kördirigering. Sedan i juni 2023 har jag blivit en C-klassad folkdansare efter att
-ha deltagit i en 2-årig kurs med Alba Régia Dance Ensemble, och jag har nu en
-certifiering som gruppledare i ungerska folkdans. På så sätt kan Rezeda folkdansgrupp sättas
-igång, där jag välkomnar barn mellan 6 och 9 år. Jag spelar flera olika
-instrument: flöjt, blockflöjt, citera och koboz (ungerska folkinstrument), gitarr, ukulele, effektinstrument och
-ibland även piano på MACSEK musikförskolan. På mina lektioner kombinerar jag dramalekar
-med musik, i förhoppning om att ge barnen  upplevelse. Jag
-utbildar mig kontinuerligt och har bland annat genomfört Ringató och Kerekítő
-baby-mama/papa gruppledare utbildningar, vilket möjliggör att jag håller Ringató
-baby-mama/papa klasser på Folkuniversitetet, och Kerekítő Manó (en ungersk
-karakter handdocka för barn) besöker regelbundet musikförskolans lektioner. Som mamma
-till tre barn, är jag också en frivillig medarbetare i föreningen.
+kördirigering.  Jag har en certifiering som gruppledare i ungerska folkdans. På
+så sätt kan Rezeda folkdansgrupp sättas igång, där jag välkomnar barn mellan 6
+och 9 år. Jag spelar flera olika instrument: flöjt, blockflöjt, citera och koboz
+(ungerska folkinstrument), gitarr, ukulele, effektinstrument och ibland även
+piano på MACSEK musikförskolan. På mina lektioner kombinerar jag dramalekar med
+musik, i förhoppning om att ge barnen  upplevelse. Jag utbildar mig
+kontinuerligt och har bland annat genomfört Ringató och Kerekítő baby-mama/papa
+gruppledare utbildningar, vilket möjliggör att jag håller Ringató baby-mama/papa
+klasser på Folkuniversitetet, och Kerekítő Manó (en ungersk karakter handdocka
+för barn) besöker regelbundet musikförskolans lektioner. Som mamma till tre
+barn, är jag också en frivillig medarbetare i föreningen.
 
 Jag välkomnar er varmt till mina lektioner!
 

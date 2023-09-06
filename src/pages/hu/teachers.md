@@ -11,19 +11,17 @@ teachersActive: true
 <img src="/HildaElizaSalinas.jpg" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
 Kiskoromtól fogva életem része a zene és a tánc. 1998-ban végeztem a miskolci
-Zeneművészeti Főiskola szolfézs-zeneelmélet-karvezetés szakán, majd 2023.
-júniusában az Alba Régi Táncegyüttes 2 éves tanfolyamán résztvéve C kategóriájú
-néptáncossá váltam, és ezáltal néptánc csoportvezetői tanúsítvánnyal
-rendelkezem. Így indulhat útnak a Rezeda néptánc csoport, ahová 6-9 éves
-gyerekeket várok. Több hangszeren játszom: furulyát, fuvolát, citerát, kobozt, gitárt
-ukulelét, effekhangszereket és néha a zongorát is megszólaltatom a zeneoviban. A
-foglalkozásaimon ötvözöm a drámajátékot a zenével, így bízva abban, hogy a
-gyerekek élményben gazdagon térnek haza. Folyamatos képzem magam, többek között
-elvégeztem a Ringató és Kerekítő baba-mama foglalkozásvezetői tanfolyamokat is,
-aminek köszönhetően Ringató baba-mama/papa foglalkozásokat tartok a
-Folkuniversitet-ben, valamint Kerekítő Manó rendszeresen látogatja a zeneovis
-foglalkozásokat. Három gyerekes családanyaként tevékenykedem önkéntesként az
-egyesületben.
+Zeneművészeti Főiskola szolfézs-zeneelmélet-karvezetés szakán. Néptánc
+csoportvezetői tanúsítvánnyal rendelkezem. Így indulhat útnak a Rezeda néptánc
+csoport, ahová 6-9 éves gyerekeket várok. Több hangszeren játszom: furulyát,
+fuvolát, citerát, kobozt, gitárt ukulelét, effekhangszereket és néha a zongorát
+is megszólaltatom a zeneoviban. A foglalkozásaimon ötvözöm a drámajátékot a
+zenével, így bízva abban, hogy a gyerekek élményben gazdagon térnek haza.
+Folyamatos képzem magam, többek között elvégeztem a Ringató és Kerekítő
+baba-mama foglalkozásvezetői tanfolyamokat is, aminek köszönhetően Ringató
+baba-mama/papa foglalkozásokat tartok a Folkuniversitet-ben, valamint Kerekítő
+Manó rendszeresen látogatja a zeneovis foglalkozásokat. Három gyerekes
+családanyaként tevékenykedem önkéntesként az egyesületben.
 
 Szeretettel várlak benneteket a foglalkozásaimra!
 
