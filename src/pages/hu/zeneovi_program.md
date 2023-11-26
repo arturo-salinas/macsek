@@ -24,7 +24,7 @@ Hasznos tudnivalók:
 - a foglalkozásokon csak egészséges gyermekek vehetnek részt
 
 A __MACSEK Zeneovira__ a részvételi szándékot kérjük e-mailben jelezni a
-magyarcsemetekkozossege@gmail.com címünkre.
+info@macsek.se címünkre.
 
 ## A tagsági díja:
 

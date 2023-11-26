@@ -24,7 +24,8 @@ Användbar information:
 - Klädsel: inomhusskor
 - Endast friska barn får delta i aktiviteterna
 
-För att delta i MACSEK Musikförskola, vänligen meddela ert intresse via e-post till magyarcsemetekkozossege@gmail.com.
+För att delta i MACSEK Musikförskola, vänligen meddela ert intresse via e-post
+till info@macsek.se.
 
 ## Medlemsavgifter:
 

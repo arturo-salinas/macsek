@@ -26,7 +26,8 @@ Vad barnen kommer att behöva: <br/>
 - Vanlig A4-spiralbok <br/>
 - Pennskrin med 2-3 vanliga HB-blyertspennor, suddgummi, pennvässare, färgpennor
 
-För att delta i __MACSEK Skola__, vänligen meddela ert intresse via e-post till magyarcsemetekkozossege@gmail.com.
+För att delta i __MACSEK Skola__, vänligen meddela ert intresse via e-post till 
+info@macsek.se.
 
 Antalet platser är begränsat.
 

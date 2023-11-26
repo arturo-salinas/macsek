@@ -26,7 +26,7 @@ _Amire még a gyerekeknek szükségük lesz_: <br/>
 - tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák
 
 A __MACSEK Sulira__ a részvételi szándékot kérjük emailben jelezni a
-magyarcsemetekkozossege@gmail.com címünkre.
+info@macsek.se címünkre.
 
 A létszám korlátozott.
 

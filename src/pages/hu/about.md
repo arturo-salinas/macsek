@@ -26,7 +26,7 @@ nemzedék újra meg újra meg nem szerzi magának. (Kodály Zoltán)
 A foglalkozásokat tagjaink látogathatják, akik az adott félévre befizették a
 tagsági díjat.
 
-A jelentkezést e-mailben kérjük megerősíteni a magyarcsemetekkozossege@gmail.com
+A jelentkezést e-mailben kérjük megerősíteni a info@macsek.se
 e-mail címre.
 
 A tagdíjat fizető családok az egyesület tagjává válnak, és ennek köszönhetően

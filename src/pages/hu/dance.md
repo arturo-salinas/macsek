@@ -15,7 +15,7 @@ alkalmas öltözék szükséges:
 - táncra alkalmas cipő- akár alkalmi- , fehér póló, rövid vagy hosszú nadrág- melegítő- fiúknak
 
 A részvételi szándékot kérjük e-mailben jelezni a
-magyarcsemetekkozossege@gmail.com címünkre.
+info@macsek.se címünkre.
 
 A tagdíj összege: 1900 kr/ félév.
 

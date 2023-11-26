@@ -26,7 +26,7 @@ generation på nytt och på nytt förvärvar den själv. (Kodály Zoltán)
 
 Medlemmarna kan delta i aktiviteterna om de har betalat medlemsavgiften för den aktuella terminen.
 
-Vänligen bekräfta din anmälan via e-post till magyarcsemetekkozossege@gmail.com.
+Vänligen bekräfta din anmälan via e-post till info@macsek.se.
 
 Familjer som betalar medlemsavgiften blir medlemmar i föreningen och har rösträtt vid föreningens möten.
 
