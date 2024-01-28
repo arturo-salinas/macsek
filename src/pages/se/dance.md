@@ -7,8 +7,7 @@ programActive: true
 
 <img src="/rezeda_logo.png" style="width:25vw;border-radius:1vw;margin-right:5vw;" >
 
-Vi välkomnar barn i åldern 6-9 år till __Rezeda__ folkdansgrupp från den 27
-augusti, varje söndag, totalt 15 gånger mellan kl. 13:30 och kl. 14:30. Varje
+Vi välkomnar barn i åldern 6-9 år till __Rezeda__ folkdansgrupp från den 14 januari, varje söndag, totalt 15 gånger mellan kl. 13:00 och kl. 14:00. Varje
 lektion varar 1 timme. Passande klädsel för dansen krävs:
 
 - svängig danskjol, dansskor, vit t-shirt - för flickor
@@ -18,9 +17,9 @@ lektion varar 1 timme. Passande klädsel för dansen krävs:
 För att delta i Rezeda folkdansgrupp, vänligen meddela ert intresse via e-post
 till info@macsek.se.
 
-Medlemsavgift: 1900 SEK/termin.
+Medlemsavgift: 2000 SEK/termin.
 
-Betalningsfrist: 1 september 2023.
+Betalningsfrist: 14 januari 2024.
 
 Vårt bankgiro-nummer: 544-2686. Vänligen ange barnets/den barns namn i
 meddelanderaden.

@@ -30,24 +30,24 @@ info@macsek.se címünkre.
 
 A létszám korlátozott.
 
-- 2023-HT tagsági díja függ a jelentkező gyermekek létszámától.
+- A tagsági díj függ a jelentkező gyermekek létszámától.
 
-Fizetési határidő: 2023. augusztus 25.
+Fizetési határidő: 2024. január 14.
 
 Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét beírni.
 
 
 # Időpontok
 
-2023-HT: __Magyar nyelv és irodalom előkészítő csoport__
-augusztus 27-től vasárnaponként 15 alkalommal 9-9.45 óra között
+2024-VT: __Magyar nyelv és irodalom 1. osztály__
+január 14-től vasárnaponként 15 alkalommal 9-9.45 óra között
 
-2023-HT: __Magyar nyelv és irodalom 1. osztály__
-augusztus 27-től vasárnaponként 15 alkalommal 10-12 óra között
+2024-VT: __Magyar nyelv és irodalom 2. osztály__
+január 14-től vasárnaponként 15 alkalommal 10-12 óra között
 
-## Őszi félév
+## Tavaszi félév
 
-Kezdés: 2023. augusztus 27.
+Kezdés: 2024. január 14.
 
 # Helyszín
 

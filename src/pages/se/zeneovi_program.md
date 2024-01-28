@@ -31,15 +31,15 @@ till info@macsek.se.
 
 - För 1 barn: 1100 SEK/termin
 - För 2 eller fler barn: 1500 SEK/termin
-Betalningsfrist: 25 augusti 2023. Vårt bankgiro-nummer: 544-2686. Vänligen ange barnets/den barns namn i meddelanderaden.
+Betalningsfrist: 21. januari 2024. Vårt bankgiro-nummer: 544-2686. Vänligen ange barnets/den barns namn i meddelanderaden.
 
 # Schema
 
 MACSEK Musikförskola har veckovisa aktiviteter varje söndag, med totalt 12 eller 13 sessioner per termin.
 
-## Hösttermin
+## Vårtermin
 
-Start: 27 augusti 2023.
+Start: 21 januari 2024.
 
 # Plats
 

@@ -7,8 +7,7 @@ programActive: true
 
 <img src="/rezeda_logo.png" style="width:25vw;border-radius:1vw;margin-right:5vw;" >
 
-A __Rezeda__ néptánc csoportba 6-9 éves gyerekeket várunk augusztus
-27-től vasárnaponként 15 alkalommal 13.30h-tól. A foglalkozás 1 órás. Táncra
+A __Rezeda__ néptánc csoportba 6-9 éves gyerekeket várunk január 14-től vasárnaponként 15 alkalommal 13h-tól. A foglalkozás 1 órás. Táncra
 alkalmas öltözék szükséges:
 
 - táncos pörgős szoknya, táncos kopogós cipő, fehér póló - lányoknak
@@ -17,9 +16,9 @@ alkalmas öltözék szükséges:
 A részvételi szándékot kérjük e-mailben jelezni a
 info@macsek.se címünkre.
 
-A tagdíj összege: 1900 kr/ félév.
+A tagdíj összege: 2000 kr/ félév.
 
-Fizetési határidő: 2023. szeptember 1.
+Fizetési határidő: 2024. január 14.
 
 Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét beírni.
 

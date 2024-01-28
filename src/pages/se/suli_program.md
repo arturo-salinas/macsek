@@ -31,23 +31,23 @@ info@macsek.se.
 
 Antalet platser är begränsat.
 
-- Medlemsavgiften för 2023-HT beror på antalet anmälda barn.
+- Medlemsavgiften beror på antalet anmälda barn.
 
-Betalningsfrist: 25 augusti 2023.
+Betalningsfrist: 14 januari 2024.
 
 Vårt bankgiro-nummer: 544-2686. Vänligen ange barnets/den barns namn i meddelanderaden.
 
 # Schema
 
-2023-HT: Förberedande grupp för ungerska språk och litteratur
-från den 27 augusti, varje söndag, totalt 15 gånger mellan 9:00 och 9:45.
+2024-VT: Ungerska språk och litteratur för första klass
+från den 14 januari, varje söndag, totalt 15 gånger mellan 9:00 och 9:45.
 
-2023-HT: Ungerska språk och litteratur för första klass
-från den 27 augusti, varje söndag, totalt 15 gånger mellan 10:00 och 12:00.
+2024-VT: Ungerska språk och litteratur för andra klass
+från den 14 januari, varje söndag, totalt 15 gånger mellan 10:00 och 12:00.
 
-## Hösttermin
+## Vårtermin
 
-Start: 27 augusti 2023.
+Start: 14 januari 2024.
 
 # Plats
 
