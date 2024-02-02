@@ -4,8 +4,6 @@ title: MACSEK Zeneovi
 programActive: true
 ---
 
-<img src="/Puppet.png" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
-
 ## HUNcutkodjunk, kalandra fel!
 
 A __MACSEK Zeneovi__ csoportos magyar nyelvű foglalkozásaira 3-6 éves gyermekeket 

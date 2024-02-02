@@ -4,8 +4,6 @@ title: MACSEK Musikförskola
 programActive: true
 ---
 
-<img src="/Puppet.png" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
-
 ## Låt oss klippa loss och ge oss ut på ett äventyr!
 
 Vi välkomnar barn i åldern 3-6 år till gruppaktiviteter på ungerska __MACSEK Musikförskola__. 
