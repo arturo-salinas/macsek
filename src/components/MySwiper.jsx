@@ -17,6 +17,12 @@ export default function MySwiper() {
       onSwiper={(swiper) => console.log(swiper)}
       onSlideChange={() => console.log('slide change')}
     >
+      <SwiperSlide><img className="test" src="/photos/0-1.jpeg"></img></SwiperSlide>
+      <SwiperSlide><img className="test" src="/photos/0-2.jpeg"></img></SwiperSlide>
+      <SwiperSlide><img className="test" src="/photos/0-4.jpeg"></img></SwiperSlide>
+      <SwiperSlide><img className="test" src="/photos/0-5.jpeg"></img></SwiperSlide>
+      <SwiperSlide><img className="test" src="/photos/0-6.jpeg"></img></SwiperSlide>
+      <SwiperSlide><img className="test" src="/photos/0-8.jpeg"></img></SwiperSlide>
       <SwiperSlide><img className="test" src="/photos/1.jpeg"></img></SwiperSlide>
       <SwiperSlide><img className="test" src="/photos/2.jpeg"></img></SwiperSlide>
       <SwiperSlide><img className="test" src="/photos/3.jpeg"></img></SwiperSlide>
