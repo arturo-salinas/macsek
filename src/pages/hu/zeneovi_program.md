@@ -29,7 +29,7 @@ info@macsek.se címünkre.
 - 1 gyermek esetén 1100 kr/félév,
 - 2 vagy több gyermekek esetén 1500 kr/félév.
 
-Fizetési határidő: 2024. január 21. Bankgiro számunk: 544-2686 A közlemény
+Fizetési határidő: 2024. szeptember 14. Bankgiro számunk: 544-2686 A közlemény
 rovatba kérjük a gyermek(ek) nevét beírni. 
 
 # Időpontok
@@ -37,9 +37,9 @@ rovatba kérjük a gyermek(ek) nevét beírni.
 A MACSEK Zeneovi foglalkozások heti rendszerességgel folynak vasárnaponként
 9:30-től összesen félévenként 12 vagy 13 alkalommal.
 
-## Tavaszi félév
+## Őszi félév
 
-Kezdés: 2024. január 14.
+Kezdés: 2024. szeptember 1.
 
 # Helyszín
 

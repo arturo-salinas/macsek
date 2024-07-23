@@ -1,21 +1,17 @@
-import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
+import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
+import SwiperCore, { Navigation, Pagination } from 'swiper';
+// Install modules
+SwiperCore.use([Navigation, Pagination]);
 
 export default function MySwiper() {
   return (
+    <div className="swiper-container">
    <Swiper
-      modules={[Navigation, Pagination, Scrollbar, A11y]}
       spaceBetween={10}
       slidesPerView={1}
       navigation
       pagination={{ clickable: true }}
-      scrollbar={{ draggable: true }}
-      onSwiper={(swiper) => console.log(swiper)}
-      onSlideChange={() => console.log('slide change')}
     >
       <SwiperSlide><img className="test" src="/photos/0-1.jpeg"></img></SwiperSlide>
       <SwiperSlide><img className="test" src="/photos/0-2.jpeg"></img></SwiperSlide>
@@ -39,5 +35,6 @@ export default function MySwiper() {
       <SwiperSlide><img className="test" src="/photos/25.jpeg"></img></SwiperSlide>
       <SwiperSlide><img className="test" src="/photos/26.jpeg"></img></SwiperSlide>
     </Swiper>
+    </div>
   );
 }

@@ -14,7 +14,7 @@ szerdánként várjuk a babás, totyogós családokat 10 óratól. Bejelentkezé
 szükséges. A pontos teremszámot a https://www.facebook.com/ringato.stockholm facebook 
 oldalon kírjuk ki minden egyes foglalkozás előtt.
 
-2024 Tavaszi félév: Februártól szerdánként hetente.
+2024 őszi félév: szeptember 11-től szerdánként hetente.
 
 <img src="/ringato.png" style="width:15vw;border-radius:1vw;margin-right:5vw;
 margin-bottom:2vw" >

@@ -1,0 +1,47 @@
+form {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: grid;
+    gap: 20px;
+    background-color: #ccc;
+  }
+  
+  form .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form .form-group label {
+    margin-bottom: 5px;
+  }
+  
+  form .form-group input {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .child-input, .relative-input {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .child-input input, .relative-input input {
+    padding: 5px;
+    flex: 1;
+  }
+  
+  .child-input button, .relative-input button {
+    flex-shrink: 0;
+  }
+  
+  button[type="submit"], button {
+    background-color: blue;
+    padding: 10px 20px;
+  }
+  

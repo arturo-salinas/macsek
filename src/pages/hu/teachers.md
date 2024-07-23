@@ -4,7 +4,7 @@ title: Foglalkozásvezetők
 teachersActive: true
 ---
 
-# MACSEK Zeneovi és a Rezeda néptánc csoport vezetője
+## MACSEK Zeneovi és a Rezeda néptánc csoport vezetője
 
 ### Hilda Salinas Lanchipa 
 
@@ -25,7 +25,7 @@ családanyaként tevékenykedem önkéntesként az egyesületben.
 
 Szeretettel várlak benneteket a foglalkozásaimra!
 
-# MACSEK Suli
+## MACSEK Suli
 
 ### Tóthné Vermes Zita 
 
@@ -53,3 +53,27 @@ vagyok. Énekegyüttesünkkel számos nemzetközi fesztiválon és versenyen
 szerepeltünk eredményesen. 
 
 Hat gyermekünk van. A családdal 2019-ben költöztünk Svédországba.
+
+### Nagy Klára
+
+<img src=/klara.jpg  style="width:20vw;border-radius:1vw;margin-right:5vw;" >
+
+12 éve élek Täbyben férjemmel és két gyemekemmel. Tanítói diplomámat a
+Kaposvári Egyetemen szereztem 2009-ben. Kiköltözésem előtt a körmendi Olcsai
+általános iskolában dolgoztam mint tanító és német tanár. Täbyben több
+óvodában is dolgoztam a 12 év alatt, kicsiktől egészen az iskolakezdőkig.
+Fontos számomra, hogy a gyerekek a tudást játékos formában sajátítsák el.
+Jelenleg az egyesület munkáját, mint helyettes tanító fogom segíteni.
+
+## MACSEK Alkotókör
+
+### Kosztándi Orsolya
+
+<img src=/orsolya.jpg  style="width:25vw;border-radius:1vw;margin-right:5vw;" >
+
+A foglalkozásaim átfogó célja: különböző képalkotói technikák megismerése és
+magabiztos elsajátítása élvezetes módon (festés, kollázs, monotípia, stb.)
+Különböző anyaghasználat magabiztos elsajátítása (tempera, akril, akvarell,
+monotípia). Inspiráció más művészeti ágakból, például zene, színház,
+irodalom. Képalkotás mind valós, mind absztrakt témákkal. A külső és belső
+világunk kifejezésének, ábrázolásának elsajátítása.

@@ -25,6 +25,9 @@ _Amire még a gyerekeknek szükségük lesz_: <br/>
 - sima A4-es spirál füzet
 - tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák
 
+MASCEK sulisaink tagjai lehetnek a MACSEK Alkotókörnek, ahol havi egy órában
+elsajátíthatják a különböző képalkotói technikákat.
+
 A __MACSEK Sulira__ a részvételi szándékot kérjük emailben jelezni a
 info@macsek.se címünkre.
 
@@ -32,22 +35,25 @@ A létszám korlátozott.
 
 - A tagsági díj függ a jelentkező gyermekek létszámától.
 
-Fizetési határidő: 2024. január 14.
+Fizetési határidő: 2024. augusztus 25.
 
 Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét beírni.
 
 
 # Időpontok
 
-2024-VT: __Magyar nyelv és irodalom 1. osztály__
-január 14-től vasárnaponként 15 alkalommal 9-9.45 óra között
+2025-VT: __Magyar nyelv és irodalom előkészítő osztály__
+január 12-től vasárnaponként 15 alkalommal 9-10 óra között
 
-2024-VT: __Magyar nyelv és irodalom 2. osztály__
-január 14-től vasárnaponként 15 alkalommal 10-12 óra között
+2024-HT: __Magyar nyelv és irodalom 1. osztály__
+augusztus 25-től vasárnaponként 15 alkalommal 9-11 óra között
 
-## Tavaszi félév
+2024-HT: __Magyar nyelv és irodalom 2. osztály__
+augusztus 25-től vasárnaponként 15 alkalommal 11-13 óra között
 
-Kezdés: 2024. január 14.
+## Őszi félév
+
+Kezdés: 2024. augusztus 25.
 
 # Helyszín
 
