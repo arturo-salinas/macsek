@@ -6,7 +6,7 @@ const ChildInput = ({ index, child, handleChildChange, handleRemoveChild }) => {
       <input
         type="text"
         name="name"
-        placeholder={`Child ${index + 1} Name`}
+        placeholder={`Gyermek ${index + 1} Neve`}
         value={child.name}
         onChange={(e) => handleChildChange(index, e)}
       />

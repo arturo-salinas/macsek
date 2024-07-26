@@ -91,30 +91,30 @@ const RegistrationForm = () => {
     <form onSubmit={handleSubmit}>
       <div className="form-group">
         <label>
-          Name:
+        Szülő 1 neve:
         </label>
         <input type="text" name="name" value={formData.name} onChange={handleChange} />
       </div>
       <div className="form-group">
         <label>
-          Partner:
+        Szülő 2 neve:
         </label>
         <input type="text" name="partner" value={formData.partner} onChange={handleChange} />
       </div>
       <div className="form-group">
         <label>
-          Email:
+        E-mail cím:
         </label>
         <input type="email" name="email" value={formData.email} onChange={handleChange} />
       </div>
       <div className="form-group">
         <label>
-          Telephone:
+        Tel. szám:
         </label>
         <input type="text" name="telephone" value={formData.telephone} onChange={handleChange} />
       </div>
       <div>
-        <h3>Children</h3>
+        <h3>Gyerekek</h3>
         {formData.children.map((child, index) => (
           <ChildInput
             key={index}
@@ -127,7 +127,7 @@ const RegistrationForm = () => {
         <button type="button" onClick={handleAddChild}>Add Child</button>
       </div>
       <div>
-        <h3>Relatives</h3>
+        <h3>Vendégek</h3>
         {formData.relatives.map((relative, index) => (
           <RelativeInput
             key={index}

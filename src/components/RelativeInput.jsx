@@ -6,7 +6,7 @@ const RelativeInput = ({ index, relative, handleRelativeChange, handleRemoveRela
       <input
         type="text"
         name="name"
-        placeholder={`Relative ${index + 1} Name`}
+        placeholder={`Vendég ${index + 1} Neve`}
         value={relative.name}
         onChange={(e) => handleRelativeChange(index, e)}
       />

@@ -56,7 +56,7 @@ Hat gyermekünk van. A családdal 2019-ben költöztünk Svédországba.
 
 ### Nagy Klára
 
-<img src=/klara.jpg  style="width:20vw;border-radius:1vw;margin-right:5vw;" >
+<img src=/klara.jpg  style="width:18vw;border-radius:1vw;margin-right:5vw;" >
 
 12 éve élek Täbyben férjemmel és két gyemekemmel. Tanítói diplomámat a
 Kaposvári Egyetemen szereztem 2009-ben. Kiköltözésem előtt a körmendi Olcsai
