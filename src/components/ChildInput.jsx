@@ -10,15 +10,18 @@ const ChildInput = ({ index, child, handleChildChange, handleRemoveChild }) => {
         value={child.name}
         onChange={(e) => handleChildChange(index, e)}
       />
+      <label>
+      születésnap
+        </label>
       <input
-        type="number"
-        name="age"
-        placeholder="Age"
-        value={child.age}
+        type="date"
+        name="birthday"
+        placeholder="yyyy-mm-dd"
+        value={child.birthday}
         onChange={(e) => handleChildChange(index, e)}
       />
       <button type="button" onClick={() => handleRemoveChild(index)}>
-        Remove
+      Eltávolít
       </button>
     </div>
   );
