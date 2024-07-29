@@ -15,6 +15,8 @@ const RegistrationForm = () => {
     });
 
     const [eventsList, setEventsList] = useState([]);
+    const [formErrors, setFormErrors] = useState({});
+    const [message, setMessage] = useState('');
     const [submissionStatus, setSubmissionStatus] = useState(null); // New state for tracking submission status
 
     useEffect(() => {
@@ -29,6 +31,8 @@ const RegistrationForm = () => {
 
     const handleChange = (e) => {
         const { name, value } = e.target;
+        validateForm();
+
         setFormData({
             ...formData,
             [name]: value,
@@ -100,6 +104,15 @@ const RegistrationForm = () => {
             });
         }
     };
+    const validateForm = () => {
+        const errors = {};
+        if (!formData.name) errors.name = 'Név megadása kötelező';
+        if (!formData.email) errors.email = 'Email megadása kötelező';
+        if (!formData.telephone) errors.telephone = 'Telefonszám megadása kötelező';
+        setFormErrors(errors);
+        console.log(errors);
+        return Object.keys(errors).length === 0;
+    };
     const handleSubmit = async (e) => {
         e.preventDefault();
 
@@ -125,77 +138,99 @@ const RegistrationForm = () => {
         } catch (error) {
             // Handle error
             console.error('Error during registration:', error);
+
+            let errorMessage = 'An error occurred during registration.';
+
+            if (error.response) {
+                console.error('Error does contain response')
+                if (error.response.data && error.response.data.reason) {
+                    errorMessage = error.response.data.reason;
+                } else if (error.response.data && error.response.data.message) {
+                    errorMessage = error.response.data.message;
+                }
+
+            } else if (error.message) {
+                errorMessage = error.message;
+            } else if (error.request) {
+                errorMessage = 'No response received from the server.';
+            } else {
+                errorMessage = 'Request setup was invalid.';
+            }
             setSubmissionStatus('error');
+            setMessage(errorMessage);
         }
     };
 
     return (
         <div className="container">
             <h2>Esemény regisztráció</h2>
-        {submissionStatus === 'success' && <p className="success-message">Köszönjük a regisztrációt!</p>}
-        {submissionStatus === 'error' && <p className="error-message">Hiba történt a regisztráció elküldésekor. Kérjük, próbálja meg újra.</p>}
-        <form onSubmit={handleSubmit}>
-            <div className="form-group">
-                <label>
-                    Név:
-                </label>
-                <input type="text" name="name" value={formData.name} onChange={handleChange} />
-            </div>
-            <div className="form-group">
-                <label>
-                    E-mail cím:
-                </label>
-                <input type="email" name="email" value={formData.email} onChange={handleChange} />
-            </div>
-            <div className="form-group">
-                <label>
-                    Tel. szám:
-                </label>
-                <input type="text" name="telephone" value={formData.telephone} onChange={handleChange} />
-            </div>
-            <div>
-                <h3>Gyerekek</h3>
-                {formData.children.map((child, index) => (
-                    <ChildInput
-                        key={index}
-                        index={index}
-                        child={child}
-                        handleChildChange={handleChildChange}
-                        handleRemoveChild={handleRemoveChild}
-                    />
-                ))}
-                <button type="button" onClick={handleAddChild}>Gyermek hozzáad</button>
-            </div>
-            <div>
-                <h3>Felnőttek</h3>
-                {formData.relatives.map((relative, index) => (
-                    <RelativeInput
-                        key={index}
-                        index={index}
-                        relative={relative}
-                        handleRelativeChange={handleRelativeChange}
-                        handleRemoveRelative={handleRemoveRelative}
-                    />
-                ))}
-                <button type="button" onClick={handleAddRelative}>Felnőtt hozzáad</button>
-            </div>
-            <div>
-                <h3>Részvétel</h3>
-                {eventsList.map((event) => (
-                    <div key={event.id} className="event-group">
-                        <input
-                            type="checkbox"
-                            id={`event-${event.id}`}
-                            value={event.id}
-                            checked={formData.events.includes(event.id)}
-                            onChange={handleEventChange}
+            {submissionStatus === 'success' && <p className="success-message">Köszönjük a regisztrációt!</p>}
+            {submissionStatus === 'error' && <p className="error-message">{message}</p>}
+            <form onSubmit={handleSubmit}>
+                <div className="form-group">
+                    <label>
+                        Név:
+                    </label>
+                    <input type="text" name="name" value={formData.name} onChange={handleChange} required />
+                    {formErrors.name && <span style={{ color: 'red' }}>{formErrors.name}</span>}
+                </div>
+                <div className="form-group">
+                    <label>
+                        E-mail cím:
+                    </label>
+                    <input type="email" name="email" value={formData.email} onChange={handleChange} required />
+                    {formErrors.email && <span style={{ color: 'red' }}>{formErrors.email}</span>}
+                </div>
+                <div className="form-group">
+                    <label>
+                        Tel. szám:
+                    </label>
+                    <input type="text" name="telephone" value={formData.telephone} onChange={handleChange} required />
+                    {formErrors.telephone && <span style={{ color: 'red' }}>{formErrors.telephone}</span>}
+                </div>
+                <div>
+                    <h3>Gyerekek</h3>
+                    {formData.children.map((child, index) => (
+                        <ChildInput
+                            key={index}
+                            index={index}
+                            child={child}
+                            handleChildChange={handleChildChange}
+                            handleRemoveChild={handleRemoveChild}
                         />
-                        <label htmlFor={`event-${event.id}`}><b>{event.name}:</b> {event.description}</label>
-                    </div>
-                ))}
-            </div>
-            <button type="submit">Regisztrál</button>
-        </form>
+                    ))}
+                    <button type="button" onClick={handleAddChild}>Gyermek hozzáad</button>
+                </div>
+                <div>
+                    <h3>Felnőttek</h3>
+                    {formData.relatives.map((relative, index) => (
+                        <RelativeInput
+                            key={index}
+                            index={index}
+                            relative={relative}
+                            handleRelativeChange={handleRelativeChange}
+                            handleRemoveRelative={handleRemoveRelative}
+                        />
+                    ))}
+                    <button type="button" onClick={handleAddRelative}>Felnőtt hozzáad</button>
+                </div>
+                <div>
+                    <h3>Részvétel</h3>
+                    {eventsList.map((event) => (
+                        <div key={event.id} className="event-group">
+                            <input
+                                type="checkbox"
+                                id={`event-${event.id}`}
+                                value={event.id}
+                                checked={formData.events.includes(event.id)}
+                                onChange={handleEventChange}
+                            />
+                            <label htmlFor={`event-${event.id}`}><b>{event.name}:</b> {event.description}</label>
+                        </div>
+                    ))}
+                </div>
+                <button type="submit">Regisztrál</button>
+            </form>
         </div>
     );
 };
