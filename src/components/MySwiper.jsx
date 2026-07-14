@@ -2,9 +2,6 @@ import React from 'react';
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination } from "swiper/modules";
 
-// Install modules
-SwiperCore.use([Navigation, Pagination]);
-
 export default function MySwiper() {
   return (
     <div className="swiper-container">
